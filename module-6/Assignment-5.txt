@@ -1,0 +1,44 @@
+Analyzing DeFi and NFT Transactions on Polygon
+
+Objective:
+The objective of this assignment is to instruct students on how to analyze DeFi and NFT transactions on the Polygon network. Students will be guided on how to access and utilize blockchain explorers and data analysis tools specific to Polygon. They will be assigned to analyze transaction data related to DeFi protocols or NFT marketplaces on Polygon and present their findings, including trends, challenges, and potential improvements.
+
+Instructions:
+
+Introduction to Transaction Analysis: Begin by explaining the importance of analyzing blockchain transactions, especially in the context of decentralized finance (DeFi) and Non-Fungible Tokens (NFTs). Emphasize how transaction data can provide insights into user behavior, trends, and potential areas for improvement.
+
+Accessing Blockchain Explorers: Provide information on blockchain explorers and data analysis tools specific to the Polygon network. Explain how students can access these resources to retrieve transaction data.
+
+Assignment Selection: Instruct students to choose one of the following assignments based on their interests:
+
+a. DeFi Transaction Analysis: For students interested in DeFi, they should focus on analyzing transactions related to DeFi protocols on Polygon. This may include lending, borrowing, liquidity provision, yield farming, or decentralized exchanges.
+
+b. NFT Transaction Analysis: For students interested in NFTs, they should focus on analyzing transactions related to NFT marketplaces, collections, or individual NFTs on Polygon.
+
+Data Collection: Task students with collecting transaction data from the chosen category. They should retrieve relevant data such as transaction IDs, timestamps, wallet addresses, token transfers, and transaction amounts.
+
+Data Analysis: Instruct students on how to analyze the collected transaction data to identify trends, patterns, and insights. They should look for notable transactions, user behavior, trading volumes, popular assets, or any anomalies.
+
+Presentation Preparation: Guide students on how to prepare a presentation (e.g., PowerPoint or Google Slides) that covers the following aspects:
+
+a. Introduction to the Analysis: Provide an introduction to the analysis assignment, including the selected category (DeFi or NFT) and the specific focus of the analysis.
+
+b. Data Findings: Present the findings from the transaction analysis. This should include trends, challenges, noteworthy transactions, and any insights gained from the data.
+
+c. User Behavior and Engagement: Discuss user behavior patterns observed in the data and how users are interacting with DeFi protocols or NFTs on Polygon.
+
+d. Challenges and Improvements: Identify challenges or areas where the analyzed category could be improved. Offer suggestions or recommendations for enhancements.
+
+Presentation Guidelines: Provide guidelines for the presentation, including a recommended time limit (e.g., 10-15 minutes) and the inclusion of visuals, charts, or graphs to illustrate the findings.
+
+Q&A and Discussion (Instructor's Discretion): After each presentation, encourage questions and discussions among students to deepen their understanding of DeFi and NFT transactions on Polygon.
+
+Submission: Students should submit their presentation slides or document as a PDF or other suitable format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the presentation on the transaction analysis.
+Demonstrated understanding of the transaction data and its implications.
+Identification of trends, challenges, and potential improvements.
+Adherence to the specified deadline for submission.

@@ -1,0 +1,36 @@
+Deploying Smart Contracts on Polygon
+
+Objective:
+The objective of this assignment is to provide students with hands-on experience in deploying smart contracts on the Polygon network. Students will be guided through the process of deploying a smart contract to the Polygon testnet using Polygon Studio or other relevant tools. They will be tasked with deploying a simple smart contract they've written in a previous assignment.
+
+Instructions:
+
+Introduction to Deployment: Begin by explaining the importance of deploying smart contracts and the significance of deploying them on the Polygon network. Emphasize that this assignment will involve practical deployment steps.
+
+Smart Contract from Previous Assignment: Instruct students to use the Solidity smart contract they developed in a previous assignment (e.g., Homework Assignment 3: Writing Polygon-Compatible Smart Contracts).
+
+Deployment Tools: Provide guidance on the deployment tools and environments they can use for this assignment. Mention that Polygon Studio and Remix can be used for deployment to the Polygon network.
+
+Polygon Testnet: Explain that for this assignment, students will deploy their smart contracts to the Polygon testnet. Clarify the differences between the testnet and mainnet and why the testnet is used for initial deployment and testing.
+
+Deployment Process: Walk students through the steps of deploying a smart contract to the Polygon testnet using their chosen development environment. These steps may include:
+
+Setting up the Polygon testnet in Polygon Studio or Remix.
+Connecting their wallet (e.g., MetaMask) to the testnet.
+Deploying the smart contract with appropriate gas settings and network configuration.
+Testing on the Polygon Testnet: After deploying the smart contract, instruct students to interact with it on the Polygon testnet. They should test the contract's functionalities to ensure it operates as intended in a real network environment.
+
+Documentation: Ask students to document the deployment process, including any challenges they encountered and how they resolved them. The documentation should also include transaction hashes and other relevant details.
+
+Submission: Students should submit the following:
+
+The deployed smart contract's address on the Polygon testnet.
+Documentation of the deployment process, including challenges and solutions.
+A brief summary of the testing they conducted on the Polygon testnet.
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful deployment of the smart contract on the Polygon testnet.
+Quality and clarity of documentation of the deployment process.
+Effective testing of the smart contract on the testnet.
+Adherence to the specified deadline for submission.

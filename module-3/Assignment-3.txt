@@ -1,0 +1,33 @@
+Polygon Documentation Review
+
+Objective:
+The objective of this assignment is to encourage students to become proficient in using Polygon's official documentation for their development needs. Students will be provided with a list of specific topics or tasks related to Polygon development (e.g., deploying a smart contract, interacting with Polygon's APIs) and will be asked to locate and study the relevant sections of Polygon's official documentation to accomplish these tasks or answer questions.
+
+Instructions:
+
+Introduction: Begin by emphasizing the importance of thorough documentation for developers. Explain that proficiency in navigating and utilizing official documentation is a crucial skill in the world of blockchain development.
+
+List of Topics or Tasks: Provide students with a list of specific topics or tasks related to Polygon development. These topics or tasks should cover a range of activities, such as deploying smart contracts, interacting with Polygon's APIs, and configuring development environments. Here are some examples:
+
+a. Deploying a Smart Contract on Polygon.
+b. Interacting with Polygon's RPC (Remote Procedure Call) endpoints.
+c. Setting up a Polygon development environment using popular tools like Truffle or Hardhat.
+d. Understanding Polygon's token standards (e.g., ERC-20, ERC-721).
+e. Exploring Polygon's consensus mechanism (e.g., PoA, PoS).
+f. Investigating Polygon's security features and best practices for secure development.
+
+Documentation Exploration: Instruct students to navigate Polygon's official documentation to locate and study the relevant sections that pertain to the topics or tasks assigned to them.
+
+Task Accomplishment: Ask students to accomplish the assigned tasks or answer the questions based on their research within the documentation. They should provide clear and concise explanations or instructions for each task.
+
+Documentation Citation: Encourage students to properly cite the relevant sections of Polygon's official documentation that they consulted for each task. This helps reinforce the importance of citing sources.
+
+Submission: Students should submit their assignment, which includes their responses to the assigned tasks, explanations, and citations from Polygon's documentation. The submission should be in a document format (e.g., PDF) and should be uploaded to the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of task accomplishment using Polygon's official documentation.
+Proper citations and references to the documentation for each task.
+Clarity and organization of the submitted document.
+Adherence to the specified deadline for submission.

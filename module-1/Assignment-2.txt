@@ -1,0 +1,39 @@
+Blockchain Basics
+
+Objective:
+The objective of this assignment is to establish a strong foundation in blockchain fundamentals for students. By studying the provided resources on blockchain technology, including distributed ledgers, consensus algorithms, and cryptographic principles, students will gain a deep understanding of these crucial concepts. This assignment requires students to demonstrate their comprehension by creating a presentation or infographic that visually explains one of these fundamental concepts.
+
+Instructions:
+
+Study Resources: Begin by exploring the following resources to build a solid understanding of blockchain technology:
+
+Read the selected articles or chapters from a recommended blockchain fundamentals book.
+Watch videos or lectures on distributed ledgers, consensus algorithms, and cryptographic principles. Specific resources will be provided on the course platform.
+Choose a Fundamental Concept: Select one of the following fundamental blockchain concepts to focus on for your presentation or infographic:
+
+Distributed Ledgers
+Consensus Algorithms (e.g., Proof of Work, Proof of Stake)
+Cryptographic Principles (e.g., hash functions, digital signatures)
+Create a Presentation or Infographic: Using your chosen concept, create either a presentation or an infographic that visually explains the selected concept. Your presentation should consist of slides (e.g., PowerPoint or Google Slides), while your infographic should be a single-page visual representation.
+
+Content Requirements: Your presentation or infographic should include the following:
+
+A clear explanation of the chosen concept, including its importance in blockchain technology.
+Visual aids, diagrams, or charts that enhance understanding.
+Real-world examples or use cases that illustrate the concept.
+Proper citations and references to the study resources you used.
+Formatting Guidelines:
+
+Ensure your presentation or infographic is visually appealing and well-organized.
+Use clear and concise language to explain the concept.
+Include citations for any external sources you reference.
+Submission: Submit your presentation (as a PDF or PowerPoint file) or infographic (as a high-quality image file) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and depth of explanation of the chosen blockchain concept.
+Use of visuals to aid understanding.
+Relevance of real-world examples or use cases.
+Proper citations and references to study resources.
+Overall quality of presentation or infographic design and organization.

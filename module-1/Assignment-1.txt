@@ -1,0 +1,33 @@
+Polygon Overview
+
+Objective:
+The objective of this assignment is to familiarize students with the Polygon network and help them understand its importance in the blockchain ecosystem. Students will study articles, videos, and official Polygon documentation to gain a comprehensive understanding of Polygon's architecture, layer-2 scaling solutions, key features, benefits, and use cases.
+
+Instructions:
+
+Study Resources: Begin by exploring the following resources to gain a solid understanding of Polygon:
+
+Watch the video tutorial titled "Introduction to Polygon" available on the course platform.
+Read the article "Polygon: Unleashing Ethereum's Full Potential" provided in the course materials.
+Visit the official Polygon documentation (https://docs.polygon.technology/) and explore relevant sections.
+Concise Summary: After going through the provided resources, write a concise summary of Polygon's architecture. Your summary should include the following key points:
+
+Explanation of what Polygon is and its purpose in the blockchain ecosystem.
+Overview of Polygon's layer-2 scaling solutions, including the different solutions available.
+Key features and characteristics that distinguish Polygon from other blockchain networks.
+Main Benefits and Use Cases: In addition to the architectural overview, highlight the main benefits and use cases of Polygon. Discuss how Polygon addresses scalability, security, and usability issues in blockchain technology.
+
+Formatting Guidelines:
+
+Use a clear and organized structure for your summary.
+Include citations and references to the resources you used (e.g., video, article, documentation).
+Aim for a well-structured document that is both informative and concise.
+Submission: Submit your assignment as a PDF document on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and depth of the summary of Polygon's architecture.
+Accurate and comprehensive coverage of key features, layer-2 scaling solutions, benefits, and use cases.
+Proper citations and references to the provided resources.
+Overall quality of writing, including organization and coherence.

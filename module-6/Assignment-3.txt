@@ -1,0 +1,40 @@
+NFTs on Polygon
+
+Objective:
+The objective of this assignment is to explore the Non-Fungible Token (NFT) ecosystem on Polygon and understand how to interact with it. Students will learn about the concept of NFTs and their applications within the Polygon network. They will be tasked with choosing a popular NFT marketplace or project on Polygon and creating a guide on how to mint, trade, or use NFTs within that ecosystem.
+
+Instructions:
+
+Introduction to NFTs on Polygon: Begin by explaining the concept of Non-Fungible Tokens (NFTs) and their significance in the blockchain ecosystem. Emphasize how NFTs represent unique digital assets and are used for various purposes, including digital art, collectibles, and gaming items.
+
+NFT Ecosystem on Polygon: Provide an overview of the NFT ecosystem on the Polygon network. Mention key NFT marketplaces, projects, and collections that are active on Polygon. Explain how Polygon's low transaction fees and fast confirmation times make it an attractive platform for NFTs.
+
+NFT Selection: Instruct students to select one popular NFT marketplace or project on Polygon. They can choose from existing options or explore new projects that have gained attention within the Polygon NFT ecosystem.
+
+Guide Creation: Task students with creating a comprehensive guide (document, presentation, or tutorial) that covers the following aspects of their chosen NFT marketplace or project:
+
+a. Introduction to the Chosen NFT Ecosystem: Provide an introduction to the selected NFT marketplace or project, including its name, purpose, and unique features.
+
+b. Getting Started: Explain how users can get started with the chosen NFT ecosystem, including how to create an account or connect their wallet.
+
+c. Minting NFTs: If applicable, describe the process of minting NFTs within the ecosystem. Include step-by-step instructions, screenshots, or code snippets where necessary.
+
+d. Trading and Buying NFTs: Explain how users can browse, search for, and purchase NFTs on the platform. Include information on auctions, fixed-price sales, and trading features.
+
+e. Storing and Managing NFTs: Discuss how users can manage their NFT collections, view ownership, and store NFTs securely.
+
+f. Use Cases: Highlight real-world use cases or projects that have utilized NFTs from the chosen ecosystem. Showcase examples of NFTs, artists, or creators that have gained recognition.
+
+Presentation Guidelines: Provide guidelines for the presentation, including a recommended time limit (e.g., 10-15 minutes) and the inclusion of visual aids, screenshots, or demonstrations to enhance the guide.
+
+Q&A and Discussion (Instructor's Discretion): After each presentation, encourage questions and discussions among students to deepen their understanding of NFTs on Polygon.
+
+Submission: Students should submit their NFT guide as a PDF or other suitable format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the guide on the chosen NFT ecosystem.
+Demonstrated understanding of the ecosystem's functionalities and use cases.
+Real-world examples and practical insights provided.
+Adherence to the specified deadline for submission.

@@ -1,0 +1,32 @@
+Polygon vs. Ethereum
+
+Objective:
+The objective of this assignment is to promote critical thinking and encourage students to compare and contrast Polygon and the Ethereum network. By studying provided resources that discuss the differences and similarities between these two blockchain platforms, students will conduct a comparative analysis. They should highlight the strengths and weaknesses of both networks and express their opinions on when and why Polygon might be a suitable alternative to Ethereum.
+
+Instructions:
+
+Study Resources: Start by exploring the provided resources that discuss Polygon and Ethereum, emphasizing their differences and similarities. These resources may include articles, videos, and official documentation. The specific resources will be available on the course platform.
+
+Comparative Analysis: Write a comprehensive comparative analysis between Polygon and Ethereum. Your analysis should include the following elements:
+
+Introduction: Briefly introduce Polygon and Ethereum, providing context for the comparison.
+Strengths: Identify and explain the strengths of both Polygon and Ethereum. Consider factors such as scalability, transaction speed, security, development tools, and community support.
+Weaknesses: Identify and explain the weaknesses or limitations of both platforms. Analyze issues like gas fees, centralization concerns, adoption challenges, and technological constraints.
+Use Cases: Discuss the specific use cases where each network excels. Explain scenarios in which one might be a better choice than the other.
+Opinions: Express your personal opinions on whether and when Polygon might be a suitable alternative to Ethereum. Consider factors like project requirements, cost-effectiveness, and decentralization goals.
+Formatting Guidelines:
+
+Use a clear and structured format for your comparative analysis.
+Ensure that your analysis is well-organized and logically flows from one point to another.
+Include citations and references for the resources you used.
+Submission: Submit your comparative analysis as a well-structured document in PDF format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of the comparative analysis.
+Balanced consideration of strengths and weaknesses for both networks.
+Thoughtful discussion of use cases where each platform excels.
+Clear expression of personal opinions with well-reasoned arguments.
+Proper citations and references to study resources.
+Overall quality of writing and organization.

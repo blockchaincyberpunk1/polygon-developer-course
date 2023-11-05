@@ -1,0 +1,40 @@
+DeFi Protocols on Polygon
+
+Objective:
+The objective of this assignment is to introduce students to the decentralized finance (DeFi) ecosystem on the Polygon network and its significance. Students will be provided with an overview of key DeFi protocols and projects that are active on Polygon. They will then be tasked with conducting research on one DeFi protocol of their choice, explaining its purpose, features, and benefits.
+
+Instructions:
+
+Introduction to DeFi on Polygon: Begin by explaining the importance of decentralized finance (DeFi) and its role in the blockchain ecosystem. Emphasize how DeFi protocols aim to provide decentralized financial services and how they contribute to the growth of the Polygon network.
+
+Overview of DeFi Protocols on Polygon: Provide students with an overview of the key DeFi protocols and projects that are active on the Polygon network. Mention various categories within DeFi, such as lending, borrowing, decentralized exchanges (DEXs), yield farming, and liquidity provision.
+
+DeFi Protocol Selection: Instruct students to select one DeFi protocol from the list provided or allow them to explore and choose a protocol of their own interest within the Polygon DeFi ecosystem.
+
+Research and Presentation: Task students with conducting research on the chosen DeFi protocol and preparing a presentation (e.g., PowerPoint or Google Slides) that covers the following aspects:
+
+a. Introduction to the Chosen DeFi Protocol: Provide an introduction to the selected DeFi protocol, including its name, purpose, and key features.
+
+b. Functionalities and Use Cases: Explain the functionalities and capabilities of the chosen DeFi protocol. Discuss its potential use cases and how it addresses specific financial needs within the DeFi ecosystem.
+
+c. Benefits and Advantages: Highlight the benefits and advantages of using the chosen DeFi protocol, such as lower transaction fees, faster confirmation times, or unique features that set it apart from competitors.
+
+d. User Experience: Discuss the user experience for interacting with the DeFi protocol, including any user interfaces or platforms that facilitate access.
+
+e. Security and Audits: Address the security measures and audits that have been conducted on the protocol to ensure the safety of user funds.
+
+f. Real-World Examples: Share real-world examples or projects that have integrated or benefited from the selected DeFi protocol.
+
+Presentation Guidelines: Provide guidelines for the presentation, including a recommended time limit (e.g., 10-15 minutes) and the inclusion of visual aids, diagrams, or screenshots to enhance the presentation.
+
+Q&A and Discussion (Instructor's Discretion): After each presentation, encourage questions and discussions among students to deepen their understanding of DeFi protocols on Polygon.
+
+Submission: Students should submit their presentation slides or document as a PDF or other suitable format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the presentation on the chosen DeFi protocol.
+Demonstrated understanding of the protocol's functionalities and use cases.
+Real-world examples and practical insights provided.
+Adherence to the specified deadline for submission.

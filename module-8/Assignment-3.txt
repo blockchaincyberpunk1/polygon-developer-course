@@ -1,0 +1,45 @@
+Contributing to Polygon Open-Source Projects
+
+Objective:
+The objective of this assignment is to motivate students to actively contribute to the Polygon open-source ecosystem. Students will be provided with a list of open-source projects related to Polygon or Layer 2 scaling solutions and will choose one project of interest to make a meaningful contribution, such as submitting a code enhancement, fixing a bug, or improving documentation.
+
+Instructions:
+
+Introduction to Open-Source Contribution: Begin by explaining the importance of open-source contributions in the blockchain industry and the benefits of actively participating in open-source projects. Emphasize that contributions help improve the ecosystem and provide valuable experience for developers.
+
+List of Open-Source Projects: Share a list of open-source projects related to Polygon or Layer 2 scaling solutions with the students. Provide project names, descriptions, and links to their repositories on platforms like GitHub.
+
+Project Selection: Instruct students to review the list of projects and choose one that aligns with their interests, skills, and knowledge gained in the course. They should also consider the type of contribution they wish to make (e.g., code enhancement, bug fix, documentation improvement).
+
+Contributing to the Chosen Project: Students should actively contribute to the chosen project by following these steps:
+
+a. Familiarization: Familiarize themselves with the project's codebase, structure, and documentation. Read through the project's README and contributing guidelines.
+
+b. Contribution Plan: Plan their contribution by identifying an area of improvement. This could involve submitting a code enhancement, fixing a bug, improving documentation, or any other meaningful task.
+
+c. Implementation: Implement their planned contribution following the project's coding standards and guidelines. Students should ensure that their work aligns with the project's goals.
+
+d. Testing: Test their contribution to verify its correctness and functionality. Ensure that any changes do not introduce new issues.
+
+e. Submission: Submit their contribution to the project's repository following the specified process, which may involve creating a pull request (PR) on GitHub or using the project's preferred collaboration platform.
+
+Documentation of Contribution: Students should document their contribution process, including:
+
+a. Description: Describe the nature of their contribution, the problem it addresses, or the enhancement it provides.
+
+b. Code Changes: Provide code snippets, if applicable, along with explanations of the changes made.
+
+c. Testing: Describe the testing procedures conducted to ensure the contribution's quality.
+
+d. Link to PR or Submission: Include a link to the pull request or submission made to the project's repository.
+
+Reflection on Contribution: After their contribution has been submitted and reviewed (if applicable), students should write a reflection on their experience. They should discuss what they learned from the contribution process and how it contributed to the Polygon open-source ecosystem.
+
+Submission: Students should submit their contribution documentation and reflection as a document (e.g., a Word document or PDF) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Meaningful contribution to the chosen open-source project.
+Quality of the contribution documentation, including clear descriptions and code changes.
+Thoughtful reflection on the contribution experience and its impact on the Polygon ecosystem.

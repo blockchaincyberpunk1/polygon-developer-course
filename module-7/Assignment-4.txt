@@ -1,0 +1,36 @@
+Secure DApp Development on Polygon
+
+Objective:
+The objective of this assignment is to guide students in implementing security best practices when developing decentralized applications (dApps) on the Polygon network. Students will be presented with a dApp development scenario (e.g., a DeFi application) and potential security risks associated with it. They will then be tasked with developing a secure dApp prototype on Polygon, incorporating security measures to protect against common vulnerabilities.
+
+Instructions:
+
+Introduction to Secure DApp Development: Begin by explaining the critical importance of secure dApp development on the Polygon network. Emphasize that security vulnerabilities can result in significant financial losses and erode trust in blockchain applications.
+
+DApp Development Scenario: Provide students with a dApp development scenario or use case. For example, you can present a DeFi application scenario where users can lend and borrow assets on Polygon. Describe the main functionalities and features of the dApp.
+
+Security Risks: Describe potential security risks and vulnerabilities that are relevant to the provided dApp scenario. Common vulnerabilities may include reentrancy attacks, data manipulation, access control issues, and others.
+
+DApp Prototype Development: Task students with developing a secure dApp prototype for the provided scenario on the Polygon network. They should follow these steps:
+
+a. Smart Contract Development: Write the necessary smart contracts for the dApp, ensuring they incorporate secure coding practices.
+
+b. Front-end Development: Develop the user interface (UI) for the dApp, including secure user authentication and input validation.
+
+c. Security Measures: Implement security measures and best practices to protect against the identified security risks. This may include access control mechanisms, secure data handling, and proper error handling.
+
+d. Testing: Thoroughly test the dApp prototype to ensure its functionality and security. Test cases should include scenarios that could trigger potential vulnerabilities.
+
+Documentation: Students should document their dApp development process, including code explanations, security measures implemented, and testing results. The documentation should serve as a guide for others to understand and replicate their secure dApp.
+
+Presentation (Instructor's Discretion): Depending on the course format, you may ask students to present their secure dApp prototype and share their documentation with the class.
+
+Submission: Students should submit their dApp prototype and documentation as a package on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of a secure dApp prototype.
+Clarity and completeness of the documentation, including code explanations and security measures.
+Thorough testing to ensure functionality and security.
+Adherence to the specified deadline for submission.

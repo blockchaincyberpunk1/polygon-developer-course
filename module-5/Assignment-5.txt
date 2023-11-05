@@ -1,0 +1,44 @@
+Interacting with and Testing dApps on Polygon
+
+Objective:
+The objective of this assignment is to instruct students on how to interact with and test decentralized applications (dApps) deployed on the Polygon network. Students will be assigned to use their own deployed dApp or their peers' dApps on the Polygon testnet. They will perform various interactions, test different scenarios, and provide feedback on usability, performance, and functionality.
+
+Instructions:
+
+Introduction to Interaction and Testing: Begin by explaining the importance of interacting with and testing dApps deployed on the Polygon network. Emphasize that this assignment aims to evaluate the practical usability and functionality of dApps.
+
+Assignment Options: Depending on the number of dApps developed by students in the class, provide two options for this assignment:
+
+a. Using Their Own Deployed dApp: If students have individually developed and deployed their own dApps in previous assignments, they can choose to use their own dApp for testing.
+
+b. Testing Peers' dApps: If there are multiple dApps developed by different students, assign each student to test one or more of their peers' dApps. Ensure that each student has access to a different dApp for testing.
+
+Testing Tasks: Instruct students to perform the following testing tasks on the assigned dApp(s):
+
+a. Usability Testing: Interact with the dApp's user interface and evaluate its overall usability. Provide feedback on user-friendliness, navigation, and clarity of instructions.
+
+b. Functionality Testing: Test the core functionalities of the dApp. Verify that it performs the intended tasks correctly, such as creating, reading, and updating data.
+
+c. Scenario Testing: Test the dApp under various scenarios and conditions. For example, simulate different user actions, data inputs, and edge cases to identify potential issues.
+
+d. Performance Testing: Assess the dApp's performance by evaluating its response times and transaction processing speed. Report any delays or performance bottlenecks.
+
+e. User Feedback: If applicable, provide feedback on the user experience, including any suggestions for improvements or enhancements.
+
+Documentation: Ask students to document their testing process and observations for the assigned dApp(s). They should create a report that includes:
+
+Detailed descriptions of the testing tasks performed.
+Screenshots or recordings of the interactions and test scenarios.
+Feedback on usability, functionality, and performance.
+Any identified issues or bugs and their descriptions.
+Peer Feedback (If Applicable): If students are testing their peers' dApps, encourage them to provide constructive feedback to the developers based on their testing experience.
+
+Submission: Students should submit their testing reports on the assigned dApp(s) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness of testing tasks and scenarios performed.
+Clarity and completeness of the testing documentation and feedback.
+Identification of any usability, functionality, or performance issues.
+Adherence to the specified deadline for submission.

@@ -1,0 +1,52 @@
+Solidity Fundamentals
+
+Objective:
+The objective of this assignment is to familiarize students with Solidity, the programming language for Ethereum-compatible smart contracts. Students will be introduced to the basics of Solidity, including its syntax, data types, variables, and functions. They will also be provided with a simple smart contract code snippet and tasked with analyzing and explaining its functionality.
+
+Instructions:
+
+Introduction to Solidity: Begin by explaining the significance of Solidity as a programming language for Ethereum smart contracts. Emphasize its role in defining the logic and behavior of smart contracts on the Ethereum blockchain.
+
+Solidity Basics: Provide an overview of Solidity's basic concepts, including:
+
+Syntax: Briefly explain Solidity's syntax rules, such as the use of semicolons, curly braces, and indentation.
+Data Types: Introduce common data types in Solidity, such as uint, int, bool, and address, and explain their use.
+Variables: Describe how to declare and initialize variables in Solidity, emphasizing the importance of variable scoping.
+Functions: Explain how functions are defined in Solidity, including function modifiers and parameters.
+Smart Contract Code Snippet: Present students with a simple smart contract code snippet written in Solidity. The code snippet should contain a basic contract with relevant functions. Example:
+
+solidity
+Copy code
+// Simple smart contract example
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract SimpleContract {
+    uint256 public storedValue;
+
+    constructor() {
+        storedValue = 0;
+    }
+
+    function setValue(uint256 _newValue) public {
+        storedValue = _newValue;
+    }
+
+    function getValue() public view returns (uint256) {
+        return storedValue;
+    }
+}
+Analysis and Explanation: Instruct students to analyze the provided smart contract code snippet and explain its functionality in a clear and concise manner. They should address the following points in their analysis:
+
+The purpose of the smart contract.
+The variables and data types used.
+The functions defined within the contract, their parameters, and their purpose.
+Any special keywords or modifiers used in the code (e.g., public, view, constructor).
+Submission: Students should submit their analysis and explanation as a document (e.g., PDF or Word) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of the explanation of the provided smart contract code snippet.
+Understanding of Solidity basics, including syntax, data types, variables, and functions.
+Adherence to the specified deadline for submission.

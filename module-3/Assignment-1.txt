@@ -1,0 +1,32 @@
+Polygon Studio Installation
+
+Objective:
+The objective of this assignment is to ensure that students have successfully set up Polygon Studio, a development environment for Polygon. Students will follow step-by-step instructions for installing and configuring Polygon Studio on their local machines. They will also document any challenges they encounter during the installation process.
+
+Instructions:
+
+Introduction: Begin by explaining the importance of having a functional development environment for Polygon Studio. Emphasize the significance of this environment for building and testing Polygon-based applications.
+
+Installation Instructions: Provide detailed step-by-step instructions for installing and configuring Polygon Studio on their local machines. Make sure to include the following components:
+
+a. System Requirements: Specify the minimum system requirements for running Polygon Studio, including the operating system, CPU, RAM, and storage space.
+
+b. Installation Steps: Outline the installation process in a clear and organized manner. Include the following steps:
+
+Downloading and installing any necessary software dependencies (e.g., Node.js, Git).
+Cloning the Polygon Studio repository from GitHub.
+Installing Polygon Studio dependencies using npm or yarn.
+Configuring any environment variables or settings required for Polygon Studio.
+c. Verification: Provide instructions for verifying that Polygon Studio has been installed correctly. Include commands or tests that students can run to confirm that the environment is functional.
+
+Documentation of Challenges: Instruct students to document any challenges they encounter during the installation process. Encourage them to provide specific details about the issues faced, error messages received, and any troubleshooting steps attempted.
+
+Submission: Students should submit a document or report summarizing their installation experience and any challenges they encountered. This document should be submitted on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful installation of Polygon Studio following the provided instructions.
+Thorough documentation of any challenges encountered during the installation process.
+Clarity and completeness of the submission document or report.
+Adherence to the specified deadline for submission.

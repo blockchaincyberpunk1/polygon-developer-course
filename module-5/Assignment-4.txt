@@ -1,0 +1,40 @@
+Deploying a dApp on Polygon
+
+Objective:
+The objective of this assignment is to teach students how to deploy their developed dApps to the Polygon network. Students will be guided through the process of deploying their dApp prototypes to either the Polygon testnet or the Polygon mainnet. They will also be required to document the steps they followed, providing screenshots or code snippets for reference.
+
+Instructions:
+
+Introduction to Deployment: Begin by introducing the importance of deploying a dApp to the Polygon network and the distinction between the Polygon testnet and the Polygon mainnet. Explain that this assignment will focus on the deployment process.
+
+Deployment Environment Selection: Instruct students to decide whether they will deploy their dApp prototype to the Polygon testnet for testing or to the Polygon mainnet for production. Explain the differences between the two environments, including the use of test tokens on the testnet.
+
+Deployment Process: Provide guidance on the steps required to deploy a dApp on Polygon. This may include:
+
+a. Setting Up Wallet: Instruct students to set up a wallet compatible with the Polygon network, such as MetaMask.
+
+b. Compiling Smart Contracts: Explain how to compile their smart contracts to prepare them for deployment.
+
+c. Configuring Deployment: Guide students through configuring their deployment settings, including specifying the network (testnet or mainnet), gas settings, and contract addresses.
+
+d. Deploying Smart Contracts: Instruct students on how to deploy their smart contracts to the chosen Polygon network. They should use appropriate deployment tools or scripts.
+
+e. Front-End Deployment: Explain how to deploy the front-end of their dApp to a web server or hosting platform, if applicable.
+
+Testing and Verification: Encourage students to thoroughly test their deployed dApp to ensure it functions correctly on the selected Polygon network. They should verify that transactions are processed as expected.
+
+Documentation: Ask students to document the deployment process step by step. They should include explanations, code snippets, and screenshots where relevant. The documentation should be detailed enough for someone to follow the same steps.
+
+Submission: Students should submit the following:
+
+Documentation of the deployment process, including explanations, code snippets, and screenshots.
+A brief summary of the testing and verification they conducted on the deployed dApp.
+Optional: Presentation or Demonstration (Instructor's Discretion): Depending on the course format, you may ask students to present or demonstrate their deployed dApp to the class.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful deployment of the dApp on the chosen Polygon network.
+Quality and clarity of documentation of the deployment process.
+Thorough testing and verification of the deployed dApp.
+Adherence to the specified deadline for submission.

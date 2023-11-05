@@ -1,0 +1,37 @@
+Integrating Polygon's APIs
+
+Objective:
+The objective of this assignment is to provide students with hands-on experience in integrating Polygon's APIs or SDKs into applications. Students will be presented with a specific use case (e.g., creating a decentralized exchange interface) and will be tasked with implementing the chosen use case using one of Polygon's APIs or SDKs. They will also document the integration process.
+
+Instructions:
+
+Introduction to API Integration: Begin by introducing the importance of integrating APIs and SDKs into blockchain applications. Explain how these tools facilitate the interaction with the Polygon network and enhance application functionality.
+
+Use Case Selection: Present a specific use case that students will work on for this assignment. For example, you can choose a use case like "Creating a Decentralized Exchange Interface" and describe the desired functionality (e.g., trading tokens, viewing order books, etc.). Alternatively, you can allow students to propose their own use cases related to the Polygon network.
+
+API/SDK Selection: Instruct students to choose one of Polygon's APIs or SDKs that is suitable for implementing the selected use case. They should consider the specific requirements and functionalities of the chosen API or SDK.
+
+Implementation and Documentation: Task students with the following:
+
+a. Implementation: Students should implement the chosen use case using the selected Polygon API or SDK. They should write the necessary code, create interfaces, and ensure that the application functions as intended.
+
+b. Documentation: Students should thoroughly document the integration process. The documentation should include:
+
+Code explanations: Describe the key parts of the code, including how API calls are made and how data is processed.
+Code snippets: Include relevant code snippets that illustrate the integration.
+Screenshots or demonstrations: Provide visual aids, screenshots, or demonstrations that showcase the implemented functionality.
+Challenges and solutions: Discuss any challenges encountered during the integration process and how they were resolved.
+User instructions: If applicable, provide instructions on how end-users can interact with the integrated functionality.
+Testing and Validation: Encourage students to thoroughly test the integrated functionality to ensure that it works as expected. They should validate the use case and verify that transactions are processed accurately.
+
+Presentation (Instructor's Discretion): Depending on the course format, you may ask students to present their implemented use case and share their documentation with the class.
+
+Submission: Students should submit their documentation, code files, and any other relevant materials on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful implementation of the chosen use case using the selected Polygon API or SDK.
+Clarity and completeness of the documentation, including code explanations, visuals, and user instructions.
+Thorough testing and validation of the integrated functionality.
+Adherence to the specified deadline for submission.

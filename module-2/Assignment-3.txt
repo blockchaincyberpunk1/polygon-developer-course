@@ -1,0 +1,32 @@
+Scaling Solution Comparison
+
+Objective:
+The objective of this assignment is to foster critical thinking and encourage students to compare different Ethereum scaling solutions. Students will form small groups and evaluate and compare two scaling solutions, such as Polygon vs. Optimistic Rollups. They will create a visual comparison chart or slide presentation highlighting key factors, including scalability, security, adoption, and developer support.
+
+Instructions:
+
+Group Formation: Form small groups of students, ensuring each group has an equal number of members. Assign each group two Ethereum scaling solutions to compare. For example, Group 1 may compare Polygon and Optimistic Rollups, Group 2 may compare zk-Rollups and Sidechains, and so on.
+
+Study Resources: Provide a list of resources and articles for each group to research their assigned scaling solutions. These resources should cover factors like scalability, security, adoption, and developer support for the assigned solutions. Specific resources will be available on the course platform.
+
+Comparison Chart/Slide Presentation: Instruct each group to create a visual comparison chart or a slide presentation that highlights the following factors for their assigned scaling solutions:
+
+Scalability: Compare the scalability of the two solutions. Discuss how many transactions per second (TPS) each solution can handle and any other relevant scalability features.
+Security: Analyze the security features and considerations of both solutions. Discuss topics such as data security, consensus mechanisms, and potential vulnerabilities.
+Adoption: Explore the adoption and usage of these solutions within the Ethereum ecosystem. Consider the number of projects and users utilizing each solution.
+Developer Support: Assess the level of developer support and tools available for each solution. Discuss developer-friendly features and resources.
+Visual Representation: The comparison should be presented in a visually appealing format. If creating a chart, it should be well-organized and easy to understand. If creating a slide presentation, each slide should be clear and concise.
+
+Group Presentation: Instruct each group to present their comparison to the class. They should explain their findings, highlight the strengths and weaknesses of each solution, and provide insights on which solution might be more suitable for specific use cases.
+
+Peer Review: After the presentations, have students provide feedback and engage in a discussion about the different scaling solutions and their potential applications.
+
+Submission: Each group should submit their comparison chart or slide presentation as a PDF document on the course platform by the specified deadline.
+
+Grading Criteria:
+The assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of the comparison between the assigned scaling solutions.
+Clarity and visual presentation of the comparison chart or slide presentation.
+Quality of group presentations, including content and engagement.
+Proper citations and references for any external sources used.

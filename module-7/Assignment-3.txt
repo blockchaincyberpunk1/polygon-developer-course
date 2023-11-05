@@ -1,0 +1,42 @@
+Auditing a Polygon Smart Contract
+
+Objective:
+The objective of this assignment is to provide students with hands-on experience in auditing smart contracts deployed on the Polygon network. Students will be given a smart contract deployed on Polygon specifically for auditing purposes. The contract will contain security vulnerabilities. Students will be tasked with conducting a thorough security audit of the smart contract, identifying and documenting any vulnerabilities or issues, and suggesting improvements.
+
+Instructions:
+
+Introduction to Smart Contract Auditing: Begin by explaining the importance of auditing smart contracts for security and reliability. Emphasize that auditing helps identify vulnerabilities and ensures the integrity of blockchain applications.
+
+Smart Contract Selection: Provide students with a smart contract deployed on the Polygon network that contains security vulnerabilities. Ensure that the contract represents a real-world use case or scenario. The contract should be accessible for auditing but not for malicious purposes.
+
+Auditing Process: Task students with conducting a comprehensive security audit of the provided smart contract. They should follow these steps:
+
+a. Code Review: Analyze the contract's source code, including functions, variables, and logic. Look for potential vulnerabilities, such as reentrancy, unchecked user inputs, or insecure data handling.
+
+b. Testing: Execute test transactions and interactions with the contract to identify any issues related to its functionality or security.
+
+c. Documentation: Document the vulnerabilities or issues identified during the audit. Include detailed explanations of each issue and its potential impact.
+
+Improvement Recommendations: After identifying vulnerabilities, instruct students to propose improvements or modifications to the smart contract's code to address these issues. Explain how each proposed change mitigates a specific vulnerability.
+
+Report Preparation: Students should compile their audit findings and improvement recommendations into a comprehensive report. The report should include the following sections:
+
+a. Introduction to the Audited Contract: Provide an introduction to the smart contract, its purpose, and its key functions.
+
+b. Audit Findings: Document the vulnerabilities and issues identified during the audit, including code snippets and explanations.
+
+c. Improvement Recommendations: Present the proposed code improvements to mitigate the identified vulnerabilities.
+
+d. Testing Results: Share the results of any testing performed on the contract to validate vulnerabilities or issues.
+
+Presentation (Instructor's Discretion): Depending on the course format, you may ask students to present key findings and improvement recommendations from their reports to the class.
+
+Submission: Students should submit their audit report as a PDF or other suitable format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness of the security audit, including identification of vulnerabilities.
+Clarity and effectiveness of the proposed code improvements.
+Documentation quality, including detailed explanations and code examples.
+Adherence to the specified deadline for submission.

@@ -1,0 +1,46 @@
+Secure Smart Contract Design on Polygon
+
+Objective:
+The objective of this assignment is to educate students about the importance of secure smart contract design on the Polygon network. Students will learn about common vulnerabilities in smart contracts (e.g., reentrancy, integer overflow) and the potential risks associated with them. They will then be tasked with reviewing and analyzing an existing smart contract on Polygon, identifying any vulnerabilities, and proposing secure coding practices to mitigate those risks.
+
+Instructions:
+
+Introduction to Secure Smart Contract Design: Begin by explaining the critical importance of secure smart contract design on the Polygon network. Emphasize that vulnerabilities in smart contracts can lead to financial losses and other negative consequences.
+
+Common Vulnerabilities: Provide a list of common vulnerabilities in smart contracts. Examples may include but are not limited to:
+
+Reentrancy
+Integer overflow/underflow
+Unauthorized access control
+Unchecked user inputs
+External contract calls
+Front-running
+Explain the potential risks associated with each vulnerability, such as the risk of funds being stolen or contracts behaving unexpectedly.
+
+Smart Contract Selection: Instruct students to select an existing smart contract on the Polygon network. They should choose a contract that is publicly available and of interest to them.
+
+Vulnerability Analysis: Task students with conducting a thorough analysis of the selected smart contract to identify any vulnerabilities related to the common vulnerabilities list provided. They should scrutinize the contract's code and logic for potential issues.
+
+Mitigation Proposal: Once vulnerabilities are identified, students should propose secure coding practices and modifications to the smart contract to mitigate these risks. They should provide detailed explanations for each proposed change and how it addresses the vulnerability.
+
+Documentation: Students should document their vulnerability analysis and mitigation proposals in a report. The report should include:
+
+a. Introduction to the Selected Smart Contract: Provide an introduction to the contract, its purpose, and its key functions.
+
+b. Vulnerability Identification: Describe the vulnerabilities found in the contract, including their potential impact.
+
+c. Secure Coding Practices: Present the proposed secure coding practices and modifications to the contract code. Explain how each practice mitigates a specific vulnerability.
+
+d. Code Examples: Include code snippets or pseudocode to illustrate the proposed changes.
+
+Presentation (Instructor's Discretion): Depending on the course format, you may ask students to present their findings and proposals to the class.
+
+Submission: Students should submit their vulnerability analysis report as a PDF or other suitable format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Thoroughness of the vulnerability analysis.
+Clarity and effectiveness of the proposed mitigation practices.
+Documentation quality, including explanations and code examples.
+Adherence to the specified deadline for submission.

@@ -1,0 +1,34 @@
+Case Study Analysis
+
+Objective:
+The objective of this assignment is to explore real-world applications of Ethereum scaling solutions and understand how they have been integrated into projects. Students will be provided with case studies or examples of projects that have implemented Ethereum scaling solutions. They will choose one case study and write a report analyzing how the scaling solution was integrated, the impact on the project's performance, and any challenges faced during implementation.
+
+Instructions:
+
+Study Resources: Begin by reviewing the provided case studies or examples of projects that have implemented Ethereum scaling solutions. These resources will showcase real-world applications of scaling solutions like Polygon, zk-Rollups, Optimistic Rollups, or others. Specific resources will be available on the course platform.
+
+Select a Case Study: Choose one case study from the provided resources that interests you the most. Ensure that the selected case study clearly discusses the integration of an Ethereum scaling solution.
+
+Write a Case Study Analysis Report: Write a comprehensive report that covers the following aspects related to the selected case study:
+
+Project Overview: Provide an overview of the project, including its purpose and relevance to the blockchain ecosystem.
+Integration of Scaling Solution: Explain how the Ethereum scaling solution was integrated into the project. Discuss the technical aspects of the integration, such as the choice of solution, development tools used, and integration challenges.
+Impact on Performance: Analyze the impact of the scaling solution on the project's performance. Consider factors such as scalability, transaction speed, reduced gas fees, and user experience. Include any quantitative or qualitative data where available.
+Challenges Faced: Identify and discuss any challenges or obstacles faced during the implementation of the scaling solution. This could include technical difficulties, security concerns, or adoption challenges.
+Conclusion: Summarize the key takeaways from the case study analysis, including the significance of the scaling solution's integration.
+Formatting Guidelines:
+
+Structure your report with clear headings and subheadings.
+Use a formal writing style and proper citations for any external sources.
+Include any relevant visuals, diagrams, or data to enhance your report.
+Report Length: Your report should be at least 3 pages in length (single-spaced).
+
+Submission: Submit your case study analysis report as a PDF document on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of the analysis of the selected case study.
+Clarity of explanations regarding the integration of the scaling solution, its impact on performance, and challenges faced.
+Proper citations and references for any external sources used.
+Overall quality of writing, organization, and presentation.

@@ -1,0 +1,42 @@
+Building a Simple Polygon DApp
+
+Objective:
+The objective of this assignment is to challenge students to apply their knowledge by building a basic Polygon-based decentralized application (DApp). Students will be provided with a simple DApp idea or use case, such as a token minting and transfer application. They will then be tasked with developing the DApp using Polygon Studio and Remix, and finally, deploying it to the Polygon testnet.
+
+Instructions:
+
+Introduction: Begin by introducing the assignment's objective, which is to develop a simple decentralized application (DApp) on the Polygon network. Explain the significance of hands-on development in gaining practical experience.
+
+DApp Idea or Use Case: Provide students with a specific DApp idea or use case. For example, you can suggest building a token minting and transfer DApp. Describe the primary functionality and features of the DApp.
+
+Development Tools: Instruct students to use the following development tools for this assignment:
+
+a. Polygon Studio: Explain how to set up and use Polygon Studio for development. Provide any necessary links or resources for installing and configuring Polygon Studio.
+
+b. Remix: Encourage students to utilize Remix for smart contract development, testing, and deployment. Explain how to connect Remix to the Polygon testnet.
+
+DApp Development: Task students with developing the DApp according to the provided idea or use case. They should:
+
+a. Write the smart contracts required for the DApp's functionality using Solidity in Remix.
+
+b. Test the smart contracts thoroughly within Remix, ensuring they work as intended.
+
+c. Develop a user interface (UI) for the DApp using web development technologies (HTML, CSS, JavaScript). They can use libraries like web3.js or ethers.js to interact with the smart contracts.
+
+d. Implement the logic for the DApp's functionality, such as token minting and transferring.
+
+Testing and Debugging: Encourage students to test and debug their DApp thoroughly to ensure it functions correctly.
+
+Deployment to Polygon Testnet: Instruct students to deploy their DApp to the Polygon testnet. Explain the deployment process, including specifying the network, gas settings, and contract deployment.
+
+Documentation: Ask students to document their development process. They should provide a brief overview of the DApp's functionality, the smart contracts they developed, and the technologies used. Also, encourage them to document any challenges faced and how they were resolved.
+
+Submission: Students should submit their DApp, including the smart contracts, user interface code, and documentation. The submission should include all necessary files in a compressed format (e.g., ZIP) and be uploaded to the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of the DApp with the specified functionality.
+Accuracy and completeness of the documentation.
+Proper deployment of the DApp to the Polygon testnet.
+Adherence to the specified deadline for submission.

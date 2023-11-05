@@ -1,0 +1,33 @@
+Ethereum Scaling Solution Debate
+
+Objective:
+The objective of this assignment is to encourage students to engage in a debate-style discussion and explore the merits of different Ethereum scaling approaches. Students will be divided into two groups: one advocating for Ethereum's Layer 2 scaling solutions (e.g., Polygon) and another supporting Ethereum Layer 1 scaling (e.g., Ethereum 2.0 with sharding). Each group will prepare arguments supporting their chosen approach and engage in a class debate where they present their cases and counterarguments.
+
+Instructions:
+
+Group Formation: Divide the class into two groups: Group A (advocating for Layer 2 scaling solutions like Polygon) and Group B (supporting Layer 1 scaling with Ethereum 2.0 and sharding). Ensure that each group has an equal number of members.
+
+Research and Preparation: Assign each group the task of researching and preparing arguments in favor of their chosen scaling approach. Here are some points to consider:
+
+Group A (Layer 2 Advocates):
+Research and outline the benefits and advantages of Layer 2 scaling solutions like Polygon.
+Consider factors such as scalability, transaction speed, reduced gas fees, and developer-friendliness.
+Identify real-world use cases and projects that have successfully utilized Layer 2 solutions.
+Group B (Layer 1 Advocates):
+Research and outline the benefits and advantages of Ethereum Layer 1 scaling, particularly Ethereum 2.0 with sharding.
+Discuss how sharding works and its potential to improve Ethereum's scalability.
+Explain the transition plan from Ethereum 1.0 to Ethereum 2.0 and its implications.
+Debate Format: Organize a class debate in which Group A and Group B will present their arguments and counterarguments. Follow this format:
+
+Opening Statements: Each group will have an opportunity to make opening statements supporting their chosen approach (5 minutes per group).
+Rebuttal: Each group will respond to the opposing group's arguments and present counterarguments (3 minutes per group).
+Cross-Examination: Allow members of each group to ask questions to the opposing group (2 minutes per group).
+Closing Statements: Each group will make closing statements summarizing their case (3 minutes per group).
+Peer Evaluation: After the debate, encourage students to evaluate both groups' presentations and arguments. Consider factors like the persuasiveness of arguments, clarity of presentation, and ability to address counterarguments.
+
+Discussion and Reflection: After the debate and peer evaluation, facilitate a class discussion to reflect on the merits of both Layer 2 and Layer 1 scaling solutions. Encourage students to share their thoughts on which approach they find more convincing and why.
+
+Submission: There is no formal written assignment for this homework. However, students may be asked to provide their thoughts on the debate and their reflections on the discussion in written form as part of class participation.
+
+Grading Criteria:
+Grading for this assignment may be based on class participation, the quality of arguments presented, and the ability to address counterarguments effectively.

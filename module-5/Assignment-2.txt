@@ -1,0 +1,34 @@
+dApp Development Basics
+
+Objective:
+The objective of this assignment is to familiarize students with the foundational concepts of decentralized application (dApp) development. Students will be introduced to the key components of a dApp, including the front end, smart contracts, and back end (if applicable). They will then be tasked with designing a simple dApp architecture on paper or using a digital tool, illustrating how these different components interact.
+
+Instructions:
+
+Introduction to dApp Development Basics: Begin by introducing the fundamental concepts of dApp development. Explain that a dApp typically consists of three main components: the front end, smart contracts, and, if applicable, the back end.
+
+Key Components of a dApp:
+
+a. Front End: Describe the front end as the user interface (UI) of the dApp, which users interact with. It can be a website, mobile app, or any other interface that communicates with the smart contracts on the blockchain.
+
+b. Smart Contracts: Explain that smart contracts are self-executing contracts with the terms of the agreement directly written into code. They handle the business logic of the dApp, including data storage and processing, on the blockchain.
+
+c. Back End (If Applicable): Mention that some dApps may include a back end component to handle tasks that cannot be executed on the blockchain, such as off-chain processing or integration with external services.
+
+dApp Architecture Design: Instruct students to design a simple dApp architecture on paper or using a digital tool of their choice. They should create a visual representation that illustrates how the front end, smart contracts, and, if applicable, the back end interact with each other.
+
+Components Interaction: Ask students to clearly demonstrate the interactions between the different components in their architecture. For example, show how the front end communicates with smart contracts to send transactions or retrieve data.
+
+Annotations and Explanations: Encourage students to provide annotations and explanations for each component in their architecture diagram. They should explain the purpose and functionality of each component.
+
+Optional: Additional Features (Instructor's Discretion): Depending on the course's complexity, you may encourage students to include additional features in their dApp architecture, such as user authentication or data encryption.
+
+Submission: Students should submit their dApp architecture design as a digital image (e.g., PDF or image file) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Clarity and completeness of the dApp architecture design.
+Correct representation of interactions between components.
+Annotations and explanations that demonstrate understanding of the components' purpose and functionality.
+Adherence to the specified deadline for submission.

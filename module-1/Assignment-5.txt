@@ -1,0 +1,27 @@
+Blockchain Quiz
+
+Objective:
+The objective of this assignment is to evaluate students' understanding of both Polygon and general blockchain concepts. This quiz will test their knowledge of Polygon's architecture, key features, use cases, and fundamental blockchain concepts.
+
+Instructions:
+
+Quiz Format: Access the quiz on the course platform. The quiz will consist of a series of multiple-choice and true/false questions. Be prepared to answer questions related to Polygon and general blockchain concepts.
+
+Quiz Content: The quiz will cover the following topics:
+
+Polygon Architecture: Questions about Polygon's layer-2 scaling solutions, its relationship with Ethereum, and its consensus mechanism.
+Key Features: Questions related to Polygon's key features, such as security, interoperability, and developer-friendliness.
+Use Cases: Questions about practical use cases where Polygon is suitable and the advantages it offers.
+Blockchain Fundamentals: Questions about general blockchain concepts, including distributed ledger technology, consensus algorithms, and cryptographic principles.
+Scoring: To pass the quiz and demonstrate comprehension, students must achieve a score above a certain threshold. The passing score will be specified on the quiz itself.
+
+Time Limit: There will be a time limit for completing the quiz. Please ensure you have enough time to answer all the questions.
+
+Submission: Take the quiz on the course platform by the specified deadline.
+
+Grading Criteria:
+Your quiz will be graded based on the following criteria:
+
+Correctness of answers to questions about Polygon's architecture, key features, use cases, and blockchain fundamentals.
+Achieving a score above the specified passing threshold.
+Compliance with the time limit and submission deadline.

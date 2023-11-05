@@ -1,0 +1,30 @@
+Ethereum Fundamentals
+
+Objective:
+The objective of this assignment is to establish a solid understanding of Ethereum's core concepts among students. By assigning readings or video materials on Ethereum basics, including smart contracts, transactions, and the Ethereum Virtual Machine (EVM), students will learn about these fundamental components of Ethereum. They will be tasked with writing a brief summary of each concept and explaining how these concepts are interconnected within the Ethereum ecosystem.
+
+Instructions:
+
+Study Resources: Begin by exploring the provided readings or video materials on Ethereum's basics. These resources will cover essential topics such as smart contracts, transactions, and the Ethereum Virtual Machine (EVM). Specific resources will be provided on the course platform.
+
+Concept Summaries: Write a brief summary for each of the following Ethereum concepts:
+
+Smart Contracts: Explain what smart contracts are and how they function on the Ethereum network. Discuss their significance in automating trustless transactions.
+Transactions: Describe the role of transactions in Ethereum and how they interact with smart contracts. Explain the components of a typical Ethereum transaction.
+Ethereum Virtual Machine (EVM): Provide an overview of the Ethereum Virtual Machine, its purpose, and its role in executing smart contracts.
+Interconnections: After summarizing each concept, explain how these concepts are interconnected within the Ethereum ecosystem. Discuss how transactions are used to interact with smart contracts and how the EVM plays a crucial role in executing these transactions and smart contracts.
+
+Formatting Guidelines:
+
+Organize your assignment with clear headings for each concept (Smart Contracts, Transactions, EVM) and their respective explanations.
+Use concise and clear language to convey your understanding.
+Include citations and references to the study resources you used.
+Submission: Submit your assignment as a well-structured document in PDF format on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Accuracy and clarity of the summaries for smart contracts, transactions, and the EVM.
+Understanding of the interconnections between these Ethereum concepts.
+Proper citations and references for the study resources.
+Overall quality of writing, organization, and presentation.

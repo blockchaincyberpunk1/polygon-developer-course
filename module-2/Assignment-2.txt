@@ -1,0 +1,32 @@
+Ethereum Scaling Solutions Research
+
+Objective:
+The objective of this assignment is to encourage students to explore various scaling solutions for Ethereum, including Layer 2 solutions like Polygon, rollups, sidechains, and sharding. Students will conduct research on one scaling solution of their choice, create a presentation or report, and present how the selected solution works, its advantages, and potential drawbacks.
+
+Instructions:
+
+Study Resources: Begin by exploring the provided resources or articles that explain different scaling solutions for Ethereum. These resources should cover Layer 2 solutions (e.g., Polygon), rollups, sidechains, and sharding. Specific resources will be available on the course platform.
+
+Select a Scaling Solution: Choose one scaling solution from the options provided. You will be researching and presenting this solution in your assignment.
+
+Research and Create a Presentation/Report: Conduct in-depth research on your selected scaling solution and create either a presentation or a report that covers the following aspects:
+
+How It Works: Explain the technical workings of the scaling solution. Describe its architecture, consensus mechanism (if applicable), and how it interacts with the Ethereum network.
+Advantages: Discuss the benefits and advantages of the chosen scaling solution. Consider factors such as scalability, transaction speed, reduced gas fees, and improved user experience.
+Potential Drawbacks: Identify and analyze any potential drawbacks, limitations, or challenges associated with the scaling solution. This could include security concerns, centralization risks, or adoption challenges.
+Formatting Guidelines:
+
+If you choose to create a presentation, use PowerPoint or Google Slides to organize your content into slides. Ensure that the presentation is visually engaging and informative.
+If you choose to create a report, structure it with clear headings and subheadings. Use a formal writing style and proper citations for any external sources.
+Presentation/Report Length: Your presentation should consist of a minimum of 10 slides. If you choose to write a report, it should be at least 2 pages in length (single-spaced).
+
+Submission: Submit your presentation (as a PDF or PowerPoint file) or report (as a PDF document) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of the research on the selected scaling solution.
+Clarity of explanations regarding how the solution works, its advantages, and potential drawbacks.
+Proper citations and references for any external sources used.
+Presentation quality (for presentations), including organization, visuals, and clarity.
+Overall quality of writing (for reports) and organization.

@@ -1,0 +1,36 @@
+Writing Polygon-Compatible Smart Contracts
+
+Objective:
+The objective of this assignment is to instruct students on writing Ethereum-compatible smart contracts that can be deployed on the Polygon network. Students will be provided with a specific smart contract use case or problem statement (e.g., a decentralized voting application) and tasked with developing a Solidity smart contract that addresses the use case and is compatible with Polygon.
+
+Instructions:
+
+Introduction to the Assignment: Begin by introducing the assignment's objective, which is to write Ethereum-compatible smart contracts that can run on the Polygon network. Explain that this assignment will involve practical coding and deployment.
+
+Smart Contract Use Case: Provide students with a specific smart contract use case or problem statement. This could be a simple example, such as a decentralized voting application. Define the requirements and functionalities expected in the smart contract.
+
+Solidity Development: Instruct students to develop a Solidity smart contract that addresses the use case provided. They should:
+
+Define the contract structure, including state variables, functions, and events.
+Implement the required logic and functionality to fulfill the use case.
+Consider any security best practices relevant to the use case.
+Polygon Compatibility: Explain the steps and considerations for making the smart contract compatible with the Polygon network. This may include using Polygon's custom RPC endpoints, addressing gas fees, and deploying on the Polygon Mumbai or Mainnet.
+
+Testing and Deployment: Encourage students to thoroughly test their smart contract to ensure it functions as intended. They should use Remix or another development tool to test the contract on the Polygon testnet. Then, guide them on how to deploy the contract to the Polygon Mainnet or Mumbai testnet.
+
+Documentation: Instruct students to document their development process, including explanations of the contract's functionalities, any challenges encountered, and how they ensured compatibility with Polygon.
+
+Submission: Students should submit the following:
+
+The Solidity smart contract code.
+Documentation detailing the development process, including explanations of functionalities and any challenges faced.
+A brief summary of the testing and deployment process, including any relevant transaction hashes.
+Optional: Presentation or Demonstration (Instructor's Discretion): Depending on the course format, you may ask students to present their smart contracts and demonstrate their functionality to the class.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of the developed smart contract.
+Documentation quality and clarity.
+Successful testing and deployment on the Polygon network.
+Adherence to the specified deadline for submission.

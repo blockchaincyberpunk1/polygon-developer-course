@@ -1,0 +1,39 @@
+Building and Testing a dApp Prototype
+
+Objective:
+The objective of this assignment is to provide students with hands-on experience in decentralized application (dApp) development on the Polygon network. Students will be tasked with developing a basic dApp prototype for a specific use case (e.g., a decentralized voting system) and utilizing Ethereum-compatible smart contracts for Polygon.
+
+Instructions:
+
+Introduction to the Assignment: Begin by introducing the assignment's objective, which is to build and test a dApp prototype on the Polygon network. Explain that this assignment will involve practical development steps.
+
+Use Case Selection: Select a specific use case for the assignment (e.g., a decentralized voting system). Describe the functionalities and requirements of the dApp for the chosen use case. Define the purpose and key features the dApp should include.
+
+Smart Contracts for Polygon: Instruct students to use Ethereum-compatible smart contracts for Polygon in their dApp development. Explain that these smart contracts can be written in Solidity and will be deployed on the Polygon network.
+
+Dapp Development: Task students with developing a basic dApp prototype for the selected use case. Provide guidance on the following aspects:
+
+a. Smart Contract Development: Instruct students to develop the necessary smart contracts to handle the core functionalities of the dApp. This may include creating, reading, and updating data on the Polygon network.
+
+b. Front-End Development: Guide students in creating a user-friendly front-end interface for the dApp. They can use web development technologies such as HTML, CSS, and JavaScript or a framework like React.js.
+
+c. Integration: Ensure that students understand how to connect the front end of their dApp to the Polygon network and interact with the deployed smart contracts.
+
+Testing: Encourage students to thoroughly test their dApp prototype to ensure that it functions as intended. They should test various scenarios to cover different use cases and identify any potential issues.
+
+Documentation: Ask students to document their development process, including explanations of the dApp's functionalities, any challenges they encountered, and how they resolved them.
+
+Submission: Students should submit the following:
+
+The code for their dApp prototype, including smart contract code and front-end code.
+Documentation detailing the development process, including challenges and solutions.
+A brief summary of the testing they conducted on the dApp prototype.
+Optional: Presentation or Demonstration (Instructor's Discretion): Depending on the course format, you may ask students to present or demonstrate their dApp prototype to the class.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Successful development of the dApp prototype.
+Quality and clarity of documentation of the development process.
+Thorough testing of the dApp prototype.
+Adherence to the specified deadline for submission.

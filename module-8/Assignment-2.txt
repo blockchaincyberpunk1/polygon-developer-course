@@ -1,0 +1,31 @@
+Conference Participation
+
+Objective:
+The objective of this assignment is to foster students' involvement in Polygon-related conferences, webinars, or meetups. Students will be provided with a list of upcoming Polygon-related events and will choose one event to attend, whether it's virtual or physical. They will then provide a brief summary of their key takeaways and insights gained from the event.
+
+Instructions:
+
+Introduction to Conference Participation: Begin by explaining the importance of attending conferences, webinars, or meetups in the blockchain industry. Emphasize that these events provide valuable opportunities for networking, learning, and staying updated on the latest developments.
+
+List of Upcoming Events: Share a list of upcoming Polygon-related conferences, webinars, or meetups with the students. Provide event names, dates, formats (virtual or physical), and registration details if applicable. Ensure that the events are relevant to Polygon development or the blockchain ecosystem.
+
+Event Selection: Instruct students to choose one event from the provided list to attend. They should consider their interests, availability, and the event's relevance to their Polygon development journey.
+
+Event Attendance: Students should actively participate in the chosen event by attending sessions, workshops, or discussions. They should engage with speakers, fellow attendees, and any available networking opportunities.
+
+Key Takeaways and Insights: After attending the event, students should write a brief summary of their key takeaways and insights gained. Their summary should include:
+
+a. Event Overview: Provide a brief overview of the event, including its theme, purpose, and notable speakers or presenters.
+
+b. Key Learnings: Share the most important lessons or information acquired during the event. Highlight any new developments, trends, or innovations related to Polygon.
+
+c. Relevance to Course: Explain how the event's content or discussions are relevant to the Polygon Developer course and how they can apply this knowledge in their Polygon projects.
+
+Submission: Students should submit their event summary as a document (e.g., a Word document or PDF) on the course platform by the specified deadline. They may also include any photos or notes taken during the event to supplement their summary.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Active participation in the chosen Polygon-related event.
+Quality of the event summary, including key takeaways and insights.
+Reflection on the relevance of the event to the course and Polygon development.

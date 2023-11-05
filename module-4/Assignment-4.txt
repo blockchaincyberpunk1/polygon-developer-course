@@ -1,0 +1,36 @@
+Testing Smart Contracts
+
+Objective:
+The objective of this assignment is to teach students how to test and debug smart contracts effectively. Students will be introduced to various testing methodologies for smart contracts, including unit testing and integration testing. They will be assigned a set of smart contracts, including one with known issues, and asked to write test cases and identify and fix any issues.
+
+Instructions:
+
+Introduction to Testing Smart Contracts: Begin by introducing the importance of testing smart contracts thoroughly to ensure their reliability and security. Explain that this assignment aims to teach students various testing methodologies and practical debugging skills.
+
+Testing Methodologies: Provide an overview of different testing methodologies for smart contracts, including:
+
+Unit Testing: Testing individual functions and methods within a smart contract.
+Integration Testing: Testing the interactions between smart contracts or with external components.
+Scenario Testing: Testing real-world scenarios to ensure the contract behaves as expected.
+Smart Contract Set: Assign students a set of smart contracts to work with. This set should include at least one smart contract with known issues or vulnerabilities. The set could be related to a specific use case, such as a decentralized application (DApp) or a token contract.
+
+Test Case Development: Instruct students to develop test cases for the smart contracts in the set. They should include test cases for both the expected behavior and edge cases. Emphasize the importance of thorough and comprehensive testing.
+
+Identify and Fix Issues: Ask students to execute their test cases on the provided smart contracts and identify any issues, vulnerabilities, or unexpected behavior. Specifically, for the smart contract with known issues, instruct them to fix those issues.
+
+Documentation: Require students to document their testing process, including the test cases they developed, the results of their tests, any identified issues, and the steps taken to fix them.
+
+Optional: Code Reviews (Instructor's Discretion): Depending on the course format, you may ask students to conduct code reviews of each other's test cases and solutions.
+
+Submission: Students should submit the following:
+
+Test cases they developed for the provided smart contracts.
+Documentation of the testing process, including test results and issue identification and resolution.
+For the smart contract with known issues, the modified and fixed code.
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Quality and comprehensiveness of test cases developed.
+Effectiveness in identifying and fixing issues in the provided smart contracts.
+Clarity and completeness of the testing documentation.
+Adherence to the specified deadline for submission.

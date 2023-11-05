@@ -1,0 +1,39 @@
+Community Engagement on Polygon
+
+Objective:
+The objective of this assignment is to encourage students to actively engage with the Polygon developer community. Students will register on the Polygon developer forums or relevant community platforms, introduce themselves, share their interests, and express their motivation for joining the community. They will also be tasked with participating in at least one meaningful discussion, answering a question, or providing feedback on a community member's project.
+
+Instructions:
+
+Introduction to Community Engagement: Begin by explaining the significance of active community engagement in the development and learning process. Emphasize that engaging with the Polygon developer community can lead to valuable insights, networking opportunities, and collaborative projects.
+
+Community Registration: Instruct students to register on the Polygon developer forums or other relevant community platforms. Provide information on how to create an account and access the community.
+
+Introduction Post: Task students with creating a dedicated introduction post on the community platform. In their introduction post, they should include the following information:
+
+a. Name and Background: Introduce themselves by sharing their name and a bit about their background, including any relevant experience or skills.
+
+b. Interests: Share their interests in blockchain development, Polygon, and any specific areas or projects they are passionate about.
+
+c. Motivation: Express their motivation for joining the Polygon developer community. What do they hope to learn, achieve, or contribute to the community?
+
+Meaningful Engagement: Encourage students to actively engage with the community by participating in at least one of the following activities:
+
+a. Discussion Participation: Join an ongoing discussion on the community platform and provide valuable insights, opinions, or suggestions related to the topic.
+
+b. Answer a Question: Identify a community member's question or inquiry and provide a well-thought-out answer or solution.
+
+c. Feedback on a Project: Offer constructive feedback or suggestions on a project or idea shared by another community member.
+
+Documentation: Students should document their engagement activities, including links to their introduction posts and details of their meaningful engagement (e.g., discussion threads, questions answered, or feedback provided).
+
+Reflection: After participating in the community, students should write a brief reflection on their experience. They should discuss what they learned from engaging with the community and how it can benefit their Polygon development journey.
+
+Submission: Students should submit their engagement documentation and reflection as a document (e.g., a Word document or PDF) on the course platform by the specified deadline.
+
+Grading Criteria:
+Your assignment will be evaluated based on the following criteria:
+
+Active and meaningful engagement with the Polygon developer community.
+Quality of introduction posts and engagement activities.
+Thoughtful reflection on the benefits of community engagement.
